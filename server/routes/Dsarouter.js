@@ -1,6 +1,6 @@
 import express from "express";
 import isauth from "../middlewares/isauth.js";
-import { startDsaInterview, getDsaInterviewSession, respondDsaInterview } from "../controllers/DsaController.js";
+import { startDsaInterview, getDsaInterviewSession, respondDsaInterview } from "../controllers/Dsacontroller.js";
 
 const dsarouter = express.Router();
 

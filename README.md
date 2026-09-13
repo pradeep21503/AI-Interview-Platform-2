@@ -28,4 +28,4 @@ AI:
 - FastAPI
 - LangGraph
 - LangChain
-- Groq
+- Groq. .
